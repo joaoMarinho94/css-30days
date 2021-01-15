@@ -5,3 +5,7 @@
 ### Day 01 - Social Media icon with layered hover
  
  ![Day01](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day01.gif)
+
+### Day 02 - Animate Loader
+ 
+ ![Day02](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day02.gif)
