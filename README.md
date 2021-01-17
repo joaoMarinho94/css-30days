@@ -13,3 +13,7 @@
 ### Day 03 - Text Change Color DIV
  
  ![Day03](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day03.gif)
+
+### Day 04 - Profile Card
+ 
+ ![Day04](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day04.gif)
