@@ -21,3 +21,7 @@
 ### Day 05 - Icon Hamburguer Menu
  
  ![Day05](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day05.gif)
+
+### Day 06 - Video Inside Text
+ 
+ ![Day06](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day06.gif)
