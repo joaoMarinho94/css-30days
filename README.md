@@ -25,3 +25,7 @@
 ### Day 06 - Video Inside Text
  
  ![Day06](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day06.gif)
+
+### Day 07 - Card Skewed Border
+ 
+ ![Day07](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day07.gif)
