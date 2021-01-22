@@ -29,3 +29,7 @@
 ### Day 07 - Card Skewed Border
  
  ![Day07](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day07.gif)
+
+### Day 08 - Texto Neon
+ 
+ ![Day08](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day08.gif)
