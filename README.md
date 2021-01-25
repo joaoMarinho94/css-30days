@@ -33,3 +33,7 @@
 ### Day 08 - Texto Neon
  
  ![Day08](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day08.gif)
+
+### Day 09 - Hover List Style
+ 
+ ![Day09](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day09.gif)
