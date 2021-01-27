@@ -37,3 +37,7 @@
 ### Day 09 - Hover List Style
  
  ![Day09](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day09.gif)
+
+### Day 10 - Rainy Background
+ 
+ ![Day10](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day10.gif)
