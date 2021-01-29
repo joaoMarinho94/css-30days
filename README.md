@@ -45,3 +45,7 @@
 ### Day 11 - Coud Animation
  
  ![Day11](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day11.gif)
+
+### Day 12 - Text Jumping
+ 
+ ![Day12](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day12.gif)
