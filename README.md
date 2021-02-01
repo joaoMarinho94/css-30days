@@ -49,3 +49,7 @@
 ### Day 12 - Text Jumping
  
  ![Day12](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day12.gif)
+
+### Day 13 - Pure CSS Circular Progress Bar
+ 
+ ![Day13](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day13.gif)
