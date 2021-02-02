@@ -53,3 +53,7 @@
 ### Day 13 - Pure CSS Circular Progress Bar
  
  ![Day13](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day13.gif)
+
+### Day 14 - Solar Eclipse
+ 
+ ![Day14](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day14.gif)
