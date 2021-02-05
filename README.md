@@ -61,3 +61,7 @@
 ### Day 15 - 3D Nav Bar
  
  ![Day15](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day15.gif)
+
+### Day 16 - Glowing Icon hover
+ 
+ ![Day16](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day16.gif)
