@@ -65,3 +65,7 @@
 ### Day 16 - Glowing Icon hover
  
  ![Day16](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day16.gif)
+
+### Day 17 - Diamond Grid
+ 
+ ![Day17](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day17.gif)
