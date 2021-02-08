@@ -69,3 +69,7 @@
 ### Day 17 - Diamond Grid
  
  ![Day17](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day17.gif)
+
+### Day 18 - Creative Div Box
+ 
+ ![Day18](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day18.gif)
