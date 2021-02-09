@@ -73,3 +73,7 @@
 ### Day 18 - Creative Div Box
  
  ![Day18](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day18.gif)
+
+### Day 19 - Glowing Dots
+ 
+ ![Day19](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day19.gif)
