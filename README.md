@@ -81,3 +81,7 @@
 ### Day 20 - Wavy Background
  
  ![Day20](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day20.gif)
+
+### Day 21 - Ring of Fire
+ 
+ ![Day21](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day21.gif)
