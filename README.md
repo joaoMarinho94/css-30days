@@ -77,3 +77,7 @@
 ### Day 19 - Glowing Dots
  
  ![Day19](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day19.gif)
+
+### Day 20 - Wavy Background
+ 
+ ![Day20](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day20.gif)
