@@ -85,3 +85,7 @@
 ### Day 21 - Ring of Fire
  
  ![Day21](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day21.gif)
+
+### Day 22 - Isometric Social Media Icons
+ 
+ ![Day22](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day22.gif)
