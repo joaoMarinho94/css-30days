@@ -89,3 +89,7 @@
 ### Day 22 - Isometric Social Media Icons
  
  ![Day22](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day22.gif)
+
+### Day 23 - Glowing square Animation
+ 
+ ![Day23](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day23.gif)
