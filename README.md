@@ -93,3 +93,7 @@
 ### Day 23 - Glowing square Animation
  
  ![Day23](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day23.gif)
+
+### Day 24 - 3D Rotation
+ 
+ ![Day24](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day24.gif)
