@@ -97,3 +97,7 @@
 ### Day 24 - 3D Rotation
  
  ![Day24](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day24.gif)
+
+### Day 25 - Flight Loader Animation
+ 
+ ![Day25](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day25.gif)
