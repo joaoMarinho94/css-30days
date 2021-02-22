@@ -101,3 +101,7 @@
 ### Day 25 - Flight Loader Animation
  
  ![Day25](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day25.gif)
+
+### Day 26 - Black and White Text
+ 
+ ![Day26](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day26.gif)
