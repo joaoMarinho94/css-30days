@@ -105,3 +105,7 @@
 ### Day 26 - Black and White Text
  
  ![Day26](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day26.gif)
+
+### Day 27 - Modern Loader
+ 
+ ![Day27](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day27.gif)
