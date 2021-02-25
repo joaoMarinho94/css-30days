@@ -113,3 +113,7 @@
 ### Day 28 - Driving Car
  
  ![Day28](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day28.gif)
+
+### Day 29 - Neon Light Text
+ 
+ ![Day29](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day29.gif)
