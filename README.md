@@ -117,3 +117,7 @@
 ### Day 29 - Neon Light Text
  
  ![Day29](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day29.gif)
+
+### Day 30 - Text Animation
+ 
+ ![Day30](https://github.com/joaoMarinho94/css-30days/blob/main/gifs/day30.gif)
